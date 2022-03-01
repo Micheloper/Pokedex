@@ -1,6 +1,6 @@
 import React from 'react'
-import PokeCss from "../../../styles/Poke.module.css";
-import HomeCss from "../../../styles/Home.module.css";
+import PokeCss from "../../styles/Poke.module.css";
+import HomeCss from "../../styles/Home.module.css";
 
 export const ImgPoke = (data) => {
   return (

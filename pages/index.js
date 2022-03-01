@@ -1,7 +1,7 @@
 import { useState } from "react";
 import HomeCss from "../styles/Home.module.css";
-import { Button, Button1 } from "./components/Button/Button";
-import { LinkPoke1 } from "./components/LinkPoke/LinkPoke";
+import { Button, Button1 } from "../components/Button/Button";
+import { LinkPoke1 } from "../components/LinkPoke/LinkPoke";
 
 export default function Home({ pokemones, minimimosDatos, tipos, notFound }) {
   const [filtro, setFiltrar] = useState(minimimosDatos);

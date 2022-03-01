@@ -1,9 +1,9 @@
 import React from "react";
 import PokeCss from "../../styles/Poke.module.css";
-import { Name } from "../components/Name/Name";
-import { Type } from "../components/Type/Type";
-import { ImgPoke } from "../components/ImgPoke/ImgPoke";
-import { LinkPoke } from "../components/LinkPoke/LinkPoke";
+import { Name } from "../../components/Name/Name";
+import { Type } from "../../components/Type/Type";
+import { ImgPoke } from "../../components/ImgPoke/ImgPoke";
+import { LinkPoke } from "../../components/LinkPoke/LinkPoke";
 
 export default function Pokemon({ data }) {
   return (

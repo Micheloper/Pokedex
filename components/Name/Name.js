@@ -1,5 +1,5 @@
 import React from "react";
-import PokeCss from "../../../styles/Poke.module.css";
+import PokeCss from "../../styles/Poke.module.css";
 
 export const Name = (data) => {
   return (

@@ -1,4 +1,4 @@
-import HomeCss from "../../../styles/Home.module.css";
+import HomeCss from "../../styles/Home.module.css";
 
 export const Button = (filtrar) => {
   return (

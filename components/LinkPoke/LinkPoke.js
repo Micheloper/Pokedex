@@ -1,8 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import { Arrow, Fav } from "../../svg/svg";
-import PokeCss from "../../../styles/Poke.module.css";
-import HomeCss from "../../../styles/Home.module.css";
+import PokeCss from "../../styles/Poke.module.css";
+import HomeCss from "../../styles/Home.module.css";
+
 import { Type1 } from "../Type/Type";
 import { ImgPoke1 } from "../ImgPoke/ImgPoke";
 
